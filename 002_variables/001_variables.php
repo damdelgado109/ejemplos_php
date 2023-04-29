@@ -13,10 +13,11 @@
 		cualquier texto indica que lo que viene detrás es una variable.
 		Ej: $soyVariable
 		Para asignar un valor a una variable basta con defenir la variable y agregarle un símbolo de “=”
-		Ej: $soyVariable = 10; (Eso significa que mi variable vale 10
+		Ej: $soyVariable = 10; (Eso significa que mi variable vale 10)
 	
 	*/
 	/*
+	
 		
 
 	*/
@@ -27,19 +28,22 @@
 	var_dump($varUno);
 	print_r("<br>\n");
 	
+	// Volvemos a definir la variable varUno con el valor int de 128
 	$varUno = 128;
 	var_dump($varUno);
 	print_r("<br>\n");
 
+	// Definimos la misma variable varUno pero esta vez en 0
 	$varUno = 0;
 	var_dump($varUno);
 	print_r("<br>\n");
 
+	// Definimos variable de tipo int negativa
 	$varUno = -15;
 	var_dump($varUno);
 	print_r("<br>\n");
 	
-	// Definimos una variable de tipo Texto
+	// Definimos una variable de tipo String o  cadena de texto
 	$varDos = "Soy un texto";
 	var_dump($varDos);
 	print_r("<br>\n");

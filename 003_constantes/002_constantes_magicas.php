@@ -5,7 +5,7 @@
 	// ************************************************************************* \\
 
 	/*
-		Una constantes magica o predefinidas se puede llamar en cualquier
+		Una constante mágica o predefinidas se puede llamar en cualquier
 		script en ejecución. Muchas de estas constantes son creadas por
 		diferentes extensiones, y sólo estarán presentes si dichas
 		extensiones están disponibles.

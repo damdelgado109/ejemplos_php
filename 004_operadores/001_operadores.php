@@ -1,11 +1,16 @@
 <?php
+	
+	// ************************************************************************* \\
+	// ******************************/ OPERADORES  /**************************** \\
+	// ************************************************************************* \\
+	
 	/*
-		OperadoresOperadores
+		Operadores
 		* Un operador es algo que toma uno más valores (o expresiones, en la jerga de
-		programación) y produce otro valor (de modo que la construcción en si misma se
+		programación) y produce otro valor (de modo que la construcción en sí misma sé
 		convierte en una expresión).
 		* Los operadores se pueden agrupar de acuerdo con el número de valores que
-		toman. Los operadores unarios toman sólo un valor, por ejemplo ! (el operador
+		toman. Los operadores unarios toman solo un valor, por ejemplo! (el operador
 		lógico de negación) o ++ (el operador de incremento). Los operadores binarios
 		toman dos valores, como los familiares operadores aritméticos + (suma) y - (resta),
 		y la mayoría de los operadores de PHP entran en esta categoría. Finalmente, hay
@@ -14,12 +19,12 @@
 		más correctamente como el operador condicional)
 
 		Los operadores pueden ser
-		* Operadores de asignacion
-		* Operadores aritmeticos		
+		* Operadores de asignación
+		* Operadores aritméticos		
 		* Operadores bit a bit
-		* Operadores de comparacion
+		* Operadores de comparación
 		* Operadores de control de errores
-		* Operadores de ejecucion
+		* Operadores de ejecución
 		* Operadores de incremento/decremento
 		* Operadores lógicos
 		* Operadores para strings
